@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color1">#95e640</color>         <!-- verde claro -->
+    <color name="color1dark">#76bc2c</color>     <!-- verde matcha -->
+    <color name="colorAccent">#ff9c39</color>          <!-- naranja -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="backgroundColor">#ECEFF1</color>      <!-- Gris claro -->
+</resources>

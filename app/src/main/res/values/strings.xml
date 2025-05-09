@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1Desappmov</string>
+    <string name="button">Botón</string>
+    <string name="checkbox">Seleccionar</string>
+    <string name="hola">Hola Mundo</string>
+    <string name="buttonSalir">Salir</string>
+    <string name="desc_image_button">Ver siguiente pantalla</string>
+</resources>
